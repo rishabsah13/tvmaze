@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1da0d437.css",
+    "main.js": "/static/js/main.dcce2e00.js",
+    "static/media/pexels-cottonbro-4009402.jpg": "/static/media/pexels-cottonbro-4009402.2bb0e33fe48876074118.jpg",
+    "index.html": "/index.html",
+    "main.1da0d437.css.map": "/static/css/main.1da0d437.css.map",
+    "main.dcce2e00.js.map": "/static/js/main.dcce2e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da0d437.css",
+    "static/js/main.dcce2e00.js"
+  ]
+}
